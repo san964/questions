@@ -1,0 +1,54 @@
+--  Create a employee table in sql and Grant a new permission with PermissionID = 201 and eeePermissionName = 'DataAccess' to all employees in the 'Marketing' department. 
+
+
+-- Step 1: Create the Employee Table 
+
+create database employee;
+
+use employee;
+
+CREATE TABLE Employee (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Department VARCHAR(50)
+);
+
+-- Step 2: Insert Sample Data 
+
+INSERT INTO Employee (EmployeeID, FirstName, LastName, Department)
+VALUES 
+(1, 'John', 'Doe', 'Marketing'),
+(2, 'Jane', 'Smith', 'Sales'),
+(3, 'Alice', 'Johnson', 'Marketing'),
+(4, 'Bob', 'Williams', 'HR');
+
+select * from Employee;
+
+--  Step 3: Create a Permissions Table
+
+CREATE TABLE Permissions (
+    PermissionID INT PRIMARY KEY,
+    PermissionName VARCHAR(50)
+);
+
+-- Step 4: Insert the DataAccess Permission
+
+INSERT INTO Permissions (PermissionID, PermissionName)
+VALUES (201, 'DataAccess');
+
+-- Step 5: Create a Table to Link Employees with Permissions
+
+CREATE TABLE EmployeePermissions (
+    EmployeeID INT,
+    PermissionID INT,
+    FOREIGN KEY (EmployeeID) REFERENCES Employee(EmployeeID),
+    FOREIGN KEY (PermissionID) REFERENCES Permissions(PermissionID)
+);
+
+-- Step 6: Grant DataAccess Permission to All Employees in the Marketing Department 
+
+INSERT INTO EmployeePermissions (EmployeeID, PermissionID)
+SELECT EmployeeID, 201
+FROM Employee
+WHERE Department = 'Marketing';
