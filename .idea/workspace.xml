@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a38af5fc-601c-46f6-855e-6cd4df4b994e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DSAQusitions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/Even_Odd_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/Even_odd_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/Factorial_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/HCF_GCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/LCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/Product_of_three_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/Pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/Zerodivision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/diamond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/evenSqauer_oddCube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/fibonacci_Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/multiplication_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qusitions/prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/Bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Largest_element_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Marge_two_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Sort_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/common_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/count_digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/remove_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/second_largest_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/happy diwali/diwali.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/Perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/reverse_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/sum_digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/swap_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/count_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/count_vowel_Consonants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/empty_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/lenght_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/max_occurrence_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/occurrences_char_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/swap_string.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o4aFWort6FAMR5IQAwV2xGL6pd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even_Odd_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even_odd_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HCF_GCD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Largest_element_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Marge_two_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Perfect_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Product_of_three_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sort_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.common_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_vowel_Consonants.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diwali.executor&quot;: &quot;Run&quot;,
+    &quot;Python.empty_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evenSqauer_oddCube.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci_Sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lenght_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_occurrence_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplication_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.occurrences_char_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_largest_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selection_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swap_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swap_string.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanje.SANJU/PycharmProjects/DSAQusitions&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DSAQusitions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a38af5fc-601c-46f6-855e-6cd4df4b994e" name="Changes" comment="" />
+      <created>1730131198729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730131198729</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sort/Bubble_sort.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
